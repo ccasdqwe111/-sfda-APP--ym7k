@@ -1,4 +1,4 @@
-<图片 width="705" height="440" alt="34afb85ff1392c4458f461f469e80881" src=“https://github.com/user-attachments/assets/90264725-c3a2-46d2-9099-7072f588d0bb” />#求职招聘小程序劳务派遣系统灵活用工APP源码搭建-ym7k
+# 求职招聘小程序劳务派遣系统灵活用工APP源码搭建-ym7k
 
 
  获取源码：ym7k.com/19203/求职招聘小程序劳务派遣系统灵活用工APP源码搭建-ym7k
@@ -17,7 +17,7 @@
 
 系统对消息内容进行敏感词过滤防止违规信息传播。消息记录存储保留一定期限便于纠纷处理。用户可举报违规消息，平台审核后处理。消息传输采用HTTPS加密保障通信安全。在线沟通系统通过WebSocket实时推送、完善消息模型和离线通知机制实现企业与求职者高效沟通，合理消息类型设计和安全合规措施是保障沟通体验和平台秩序的技术基础。
 
-<图片 width="610" height="1015" alt="4d4796d0d4f3fb8271d3fb2b6b996c5e" src="https://github.com/user-attachments/assets/a1a47223-cabc-4581-82b0-09bdb1a52085" />
+
 <img width="620" height="475" alt="1e50281fd1310747e42a90f6e466dff8" src="https://github.com/user-attachments/assets/4a6e917a-6b13-4701-9e97-6d2fcc37dbf6" />
 <img width="616" height="979" alt="01ecebbe8b8ea61c56825ad82f582dcd" src="https://github.com/user-attachments/assets/352d2259-4a4b-42e3-afa8-56fddf1aad0c" />
-![正在上传 34afb85ff1392c4458f461f469e80881.png…]()
+
